@@ -1,0 +1,15 @@
+<div class="card">
+  <div class="row zooming">
+    <div class="col-auto">
+      <img [src]="event?.show.image.medium" alt="" class="float-left rounded img-responsive thumbnail">
+    </div>
+    <div class="col">
+        <div class="card-block">
+            <h4 class="card-title">{{event?.show.name}}</h4>
+            <p class="card-text">{{event?.show.summary}}</p>
+        </div>
+    </div>
+
+  </div>
+  <span [ngClass]="getSticker()">{{showDay(getSticker())}}</span>
+</div>
