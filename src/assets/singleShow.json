@@ -1,0 +1,506 @@
+[{
+    "id": 20172,
+    "url": "http://www.tvmaze.com/shows/20172/marvels-runaways",
+    "name": "Marvel's Runaways",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+        "Drama",
+        "Action",
+        "Science-Fiction"
+    ],
+    "status": "Running",
+    "runtime": 60,
+    "premiered": "2017-11-21",
+    "officialSite": "https://www.hulu.com/marvels-runaways",
+    "schedule": {
+        "time": "",
+        "days": [
+            "Tuesday"
+        ]
+    },
+    "rating": {
+        "average": 7.3
+    },
+    "weight": 98,
+    "network": null,
+    "webChannel": {
+        "id": 2,
+        "name": "Hulu",
+        "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+        }
+    },
+    "externals": {
+        "tvrage": null,
+        "thetvdb": 332027,
+        "imdb": "tt1236246"
+    },
+    "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/135/338795.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/135/338795.jpg"
+    },
+    "summary": "Every teenager thinks their parents are evil. What if you found out they actually were? Marvel's Runaways is the story of six diverse teenagers who can barely stand each other but who must unite against a common foe – their parents.",
+    "updated": 1534615846,
+    "_links": {
+        "self": {
+            "href": "http://api.tvmaze.com/shows/20172"
+        },
+        "previousepisode": {
+            "href": "http://api.tvmaze.com/episodes/1371825"
+        },
+        "nextepisode": {
+            "href": "http://api.tvmaze.com/episodes/1513084"
+        }
+    },
+    "_embedded": {
+        "episodes": [
+            {
+                "id": 914876,
+                "url": "http://www.tvmaze.com/episodes/914876/marvels-runaways-1x01-reunion",
+                "name": "Reunion",
+                "season": 1,
+                "number": 1,
+                "airdate": "2017-11-21",
+                "airtime": "",
+                "airstamp": "2017-11-21T17:00:00+00:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/135/339968.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/135/339968.jpg"
+                },
+                "summary": "Six teenagers, who were friends but broke up after the death of their friend Amy, come back together and discover that their parents aren't who they thought they were.",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/914876"
+                    }
+                }
+            },
+            {
+                "id": 1282610,
+                "url": "http://www.tvmaze.com/episodes/1282610/marvels-runaways-1x02-rewind",
+                "name": "Rewind",
+                "season": 1,
+                "number": 2,
+                "airdate": "2017-11-21",
+                "airtime": "",
+                "airstamp": "2017-11-21T17:00:00+00:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/135/339971.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/135/339971.jpg"
+                },
+                "summary": "On the day that the teenagers find out what their parents are doing, Geoffrey deals with a threat to his power, Victor tries to perfect the box, Tina uses her magic staff to seal Amy's room, Frank ask Leslie for more influence in the Church, and Stacey makes brie.",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1282610"
+                    }
+                }
+            },
+            {
+                "id": 1344022,
+                "url": "http://www.tvmaze.com/episodes/1344022/marvels-runaways-1x03-destiny",
+                "name": "Destiny",
+                "season": 1,
+                "number": 3,
+                "airdate": "2017-11-21",
+                "airtime": "",
+                "airstamp": "2017-11-21T17:00:00+00:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/135/339972.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/135/339972.jpg"
+                },
+                "summary": "After the events of the previous night, the teens split up to find evidence confirming their suspicions. Nico finds Tina's staff, and Gert and Chase find the dinosaur in the Yorkes' basement. Meanwhile, Catherine questions Molly about whether she was in Geoffrey's study or not.",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1344022"
+                    }
+                }
+            },
+            {
+                "id": 1355314,
+                "url": "http://www.tvmaze.com/episodes/1355314/marvels-runaways-1x04-fifteen",
+                "name": "Fifteen",
+                "season": 1,
+                "number": 4,
+                "airdate": "2017-11-28",
+                "airtime": "",
+                "airstamp": "2017-11-28T17:00:00+00:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/136/341846.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/136/341846.jpg"
+                },
+                "summary": "Victor tries to make up for his screw-up, while Gert and Karolina team up to prove their parents' innocence. Meanwhile, Nico prepares to go to the police and asks Alex to go with her.",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1355314"
+                    }
+                }
+            },
+            {
+                "id": 1363305,
+                "url": "http://www.tvmaze.com/episodes/1363305/marvels-runaways-1x05-kingdom",
+                "name": "Kingdom",
+                "season": 1,
+                "number": 5,
+                "airdate": "2017-12-05",
+                "airtime": "",
+                "airstamp": "2017-12-05T17:00:00+00:00",
+                "runtime": 47,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/137/343625.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/137/343625.jpg"
+                },
+                "summary": "The teens chase after the abducted Alex and reveal their powers to each other. Meanwhile, Geoffrey avoids telling Catherine about Darius, and the parents get a new sacrifice.",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1363305"
+                    }
+                }
+            },
+            {
+                "id": 1363710,
+                "url": "http://www.tvmaze.com/episodes/1363710/marvels-runaways-1x06-metamorphosis",
+                "name": "Metamorphosis",
+                "season": 1,
+                "number": 6,
+                "airdate": "2017-12-12",
+                "airtime": "",
+                "airstamp": "2017-12-12T17:00:00+00:00",
+                "runtime": 50,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/138/345966.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/138/345966.jpg"
+                },
+                "summary": "Jonah insists on attending the PRIDE gala at the Wizard Building, where the teens try to obtain the video evidence showing that their parents killed Andre and the others.",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1363710"
+                    }
+                }
+            },
+            {
+                "id": 1363711,
+                "url": "http://www.tvmaze.com/episodes/1363711/marvels-runaways-1x07-refraction",
+                "name": "Refraction",
+                "season": 1,
+                "number": 7,
+                "airdate": "2017-12-19",
+                "airtime": "",
+                "airstamp": "2017-12-19T17:00:00+00:00",
+                "runtime": 54,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/139/347652.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/139/347652.jpg"
+                },
+                "summary": "Jonah tells Leslie to bring PRIDE back together, but is unaware that Frank has learned part of the secret that Leslie is concealing. Meanwhile, Victor starts to revert to his old self as Jonah's treatment wears off, and Catherine tells the Yorkes what to do with Molly.",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1363711"
+                    }
+                }
+            },
+            {
+                "id": 1371822,
+                "url": "http://www.tvmaze.com/episodes/1371822/marvels-runaways-1x08-tsunami",
+                "name": "Tsunami",
+                "season": 1,
+                "number": 8,
+                "airdate": "2017-12-26",
+                "airtime": "",
+                "airstamp": "2017-12-26T17:00:00+00:00",
+                "runtime": 50,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/139/349720.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/139/349720.jpg"
+                },
+                "summary": "Alex tells Nico more about Amy's apparent suicide. Meanwhile, PRIDE argues about how to bring Victor back to life, and Jonah gives them an ultimatum.",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1371822"
+                    }
+                }
+            },
+            {
+                "id": 1371824,
+                "url": "http://www.tvmaze.com/episodes/1371824/marvels-runaways-1x09-doomsday",
+                "name": "Doomsday",
+                "season": 1,
+                "number": 9,
+                "airdate": "2018-01-02",
+                "airtime": "",
+                "airstamp": "2018-01-02T17:00:00+00:00",
+                "runtime": 45,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/140/352365.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/140/352365.jpg"
+                },
+                "summary": "The teens come together to stop their parents' plan to unleash a holocaust on LA.",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1371824"
+                    }
+                }
+            },
+            {
+                "id": 1371825,
+                "url": "http://www.tvmaze.com/episodes/1371825/marvels-runaways-1x10-hostile",
+                "name": "Hostile",
+                "season": 1,
+                "number": 10,
+                "airdate": "2018-01-09",
+                "airtime": "",
+                "airstamp": "2018-01-09T17:00:00+00:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/141/354379.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/141/354379.jpg"
+                },
+                "summary": "After Jonah captures Karolina, the teens go on the run and then regroup to rescue their friend.",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1371825"
+                    }
+                }
+            },
+            {
+                "id": 1513084,
+                "url": "http://www.tvmaze.com/episodes/1513084/marvels-runaways-2x01-tba",
+                "name": "TBA",
+                "season": 2,
+                "number": 1,
+                "airdate": "2018-12-21",
+                "airtime": "",
+                "airstamp": "2018-12-21T17:00:00+00:00",
+                "runtime": 60,
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1513084"
+                    }
+                }
+            },
+            {
+                "id": 1514917,
+                "url": "http://www.tvmaze.com/episodes/1514917/marvels-runaways-2x02-tba",
+                "name": "TBA",
+                "season": 2,
+                "number": 2,
+                "airdate": "2018-12-21",
+                "airtime": "",
+                "airstamp": "2018-12-21T17:00:00+00:00",
+                "runtime": 60,
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1514917"
+                    }
+                }
+            },
+            {
+                "id": 1514918,
+                "url": "http://www.tvmaze.com/episodes/1514918/marvels-runaways-2x03-tba",
+                "name": "TBA",
+                "season": 2,
+                "number": 3,
+                "airdate": "2018-12-21",
+                "airtime": "",
+                "airstamp": "2018-12-21T17:00:00+00:00",
+                "runtime": 60,
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1514918"
+                    }
+                }
+            },
+            {
+                "id": 1514919,
+                "url": "http://www.tvmaze.com/episodes/1514919/marvels-runaways-2x04-tba",
+                "name": "TBA",
+                "season": 2,
+                "number": 4,
+                "airdate": "2018-12-21",
+                "airtime": "",
+                "airstamp": "2018-12-21T17:00:00+00:00",
+                "runtime": 60,
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1514919"
+                    }
+                }
+            },
+            {
+                "id": 1514920,
+                "url": "http://www.tvmaze.com/episodes/1514920/marvels-runaways-2x05-tba",
+                "name": "TBA",
+                "season": 2,
+                "number": 5,
+                "airdate": "2018-12-21",
+                "airtime": "",
+                "airstamp": "2018-12-21T17:00:00+00:00",
+                "runtime": 60,
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1514920"
+                    }
+                }
+            },
+            {
+                "id": 1514921,
+                "url": "http://www.tvmaze.com/episodes/1514921/marvels-runaways-2x06-tba",
+                "name": "TBA",
+                "season": 2,
+                "number": 6,
+                "airdate": "2018-12-21",
+                "airtime": "",
+                "airstamp": "2018-12-21T17:00:00+00:00",
+                "runtime": 60,
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1514921"
+                    }
+                }
+            },
+            {
+                "id": 1514922,
+                "url": "http://www.tvmaze.com/episodes/1514922/marvels-runaways-2x07-tba",
+                "name": "TBA",
+                "season": 2,
+                "number": 7,
+                "airdate": "2018-12-21",
+                "airtime": "",
+                "airstamp": "2018-12-21T17:00:00+00:00",
+                "runtime": 60,
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1514922"
+                    }
+                }
+            },
+            {
+                "id": 1514923,
+                "url": "http://www.tvmaze.com/episodes/1514923/marvels-runaways-2x08-tba",
+                "name": "TBA",
+                "season": 2,
+                "number": 8,
+                "airdate": "2018-12-21",
+                "airtime": "",
+                "airstamp": "2018-12-21T17:00:00+00:00",
+                "runtime": 60,
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1514923"
+                    }
+                }
+            },
+            {
+                "id": 1514924,
+                "url": "http://www.tvmaze.com/episodes/1514924/marvels-runaways-2x09-tba",
+                "name": "TBA",
+                "season": 2,
+                "number": 9,
+                "airdate": "2018-12-21",
+                "airtime": "",
+                "airstamp": "2018-12-21T17:00:00+00:00",
+                "runtime": 60,
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1514924"
+                    }
+                }
+            },
+            {
+                "id": 1514925,
+                "url": "http://www.tvmaze.com/episodes/1514925/marvels-runaways-2x10-tba",
+                "name": "TBA",
+                "season": 2,
+                "number": 10,
+                "airdate": "2018-12-21",
+                "airtime": "",
+                "airstamp": "2018-12-21T17:00:00+00:00",
+                "runtime": 60,
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1514925"
+                    }
+                }
+            },
+            {
+                "id": 1514926,
+                "url": "http://www.tvmaze.com/episodes/1514926/marvels-runaways-2x11-tba",
+                "name": "TBA",
+                "season": 2,
+                "number": 11,
+                "airdate": "2018-12-21",
+                "airtime": "",
+                "airstamp": "2018-12-21T17:00:00+00:00",
+                "runtime": 60,
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1514926"
+                    }
+                }
+            },
+            {
+                "id": 1514927,
+                "url": "http://www.tvmaze.com/episodes/1514927/marvels-runaways-2x12-tba",
+                "name": "TBA",
+                "season": 2,
+                "number": 12,
+                "airdate": "2018-12-21",
+                "airtime": "",
+                "airstamp": "2018-12-21T17:00:00+00:00",
+                "runtime": 60,
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1514927"
+                    }
+                }
+            },
+            {
+                "id": 1514928,
+                "url": "http://www.tvmaze.com/episodes/1514928/marvels-runaways-2x13-tba",
+                "name": "TBA",
+                "season": 2,
+                "number": 13,
+                "airdate": "2018-12-21",
+                "airtime": "",
+                "airstamp": "2018-12-21T17:00:00+00:00",
+                "runtime": 60,
+                "image": null,
+                "summary": null,
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/1514928"
+                    }
+                }
+            }
+        ]
+    }
+}]

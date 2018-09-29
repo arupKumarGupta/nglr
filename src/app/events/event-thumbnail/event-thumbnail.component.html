@@ -1,4 +1,4 @@
-<div class="card">
+<!-- <div class="card">
   <div class="row zooming">
     <div class="col-auto">
       <img [src]="event?.show.image.medium" alt="" class="float-left rounded img-responsive thumbnail">
@@ -9,7 +9,28 @@
             <p class="card-text">{{event?.show.summary}}</p>
         </div>
     </div>
-
   </div>
   <span [ngClass]="getSticker()">{{showDay(getSticker())}}</span>
+</div> -->
+<!-- <div class="col-md-12">
+  <div class="card">
+    <img [src]="event?.show.image.medium" alt="" class="card img-top">
+    <div class="card-block">
+      <h4 class="card-title">{{event?.show.name}}</h4>
+      <p class="card-text">{{event?.show.summary}}</p>
+    </div>
+  </div>
+</div> -->
+<div class="col-md-12">
+    <span [ngClass]="getSticker()">{{showDay(getSticker())}}</span>
+  <div class="card p-2">
+    <img class="card-img-top rounded" height="250px" [src]="event?.show.image.medium" alt="Card image">
+    <div class="card-block">
+      <h4 class="card-title headingDot text-center">{{event?.show.name}}</h4>
+      <div class="card-body textDot">
+        {{event?.show.summary}}
+      </div>
+    </div>
+  </div>
+  
 </div>

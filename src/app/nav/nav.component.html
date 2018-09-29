@@ -1,14 +1,14 @@
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
     <!-- Brand/logo -->
-    <a class="navbar-brand" href="#">Logo</a>
+    <a class="navbar-brand" href="#">ngLearn</a>
     
     <!-- Links -->
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#">Link 1</a>
+        <a class="nav-link" [routerLink]="['/events']">All Events</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Link 2</a>
+        <a class="nav-link"[routerLink]="['/events/new']">Create Events</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Link 3</a>

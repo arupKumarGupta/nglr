@@ -1,0 +1,19 @@
+<div class="event-details">
+  <img [src]="event.image?.medium" alt="" class="float-left">
+  <h2 class="heading event-header">{{event?.name}}</h2>
+  <div class="event-summary">
+    {{event?.summary}}
+  </div>
+  <hr>
+  <h4 class="heading">Episodes</h4>
+  <div class="episode-strip">
+    <div class="row">
+      <div class="col-md-4 episode" *ngFor="let episode of event?._embedded?.episodes; let i = index;">
+          <div class="overlay" *ngIf="episode.image">
+          <img [src]="episode?.image?.medium" alt="" class="episode-image">
+          <div class="episode-details" *ngIf="episode.image">{{episode?.name}}</div>  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
