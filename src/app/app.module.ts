@@ -13,6 +13,7 @@ import { appRoutes } from './app-routes';
 import { CreateEventComponent } from './events/create-event/create-event.component';
 import { ErrorsComponent } from './errors/errors.component';
 import { RouteActivatorService } from './events/event-details/route-activator.service';
+import { ConfirmationGuard } from './events/create-event/guards/confirmation.guard';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,7 @@ import { RouteActivatorService } from './events/event-details/route-activator.se
     BrowserModule,
     RouterModule.forRoot(appRoutes)
   ],
-  providers: [EventService,ToastrService,RouteActivatorService],
+  providers: [EventService,ToastrService,RouteActivatorService,ConfirmationGuard],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
