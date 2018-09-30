@@ -1,3 +1,6 @@
 nav{
     padding: 0em 1.5em;
 }
+li > a.active{
+    color: aquamarine;
+}

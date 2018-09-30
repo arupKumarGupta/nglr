@@ -2,12 +2,14 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
-import { EventsListComponent } from './events/events-list/events-list.component';
-import { EventThumbnailComponent } from './events/event-thumbnail/event-thumbnail.component';
+import { EventsListComponent,
+  EventThumbnailComponent,
+  EventService,
+  EventDetailsComponent,
+  EventsListResolverService } from './events';
+
 import { NavComponent } from './nav/nav.component';
-import { EventService } from './events/shared/event.service';
 import { ToastrService } from './common/toastr.service';
-import { EventDetailsComponent } from './events/event-details/event-details.component';
 import { RouterModule } from '@angular/router';
 import { appRoutes } from './app-routes';
 import { CreateEventComponent } from './events/create-event/create-event.component';
@@ -29,7 +31,11 @@ import { ConfirmationGuard } from './events/create-event/guards/confirmation.gua
     BrowserModule,
     RouterModule.forRoot(appRoutes)
   ],
-  providers: [EventService,ToastrService,RouteActivatorService,ConfirmationGuard],
+  providers: [EventService,
+    ToastrService,
+    RouteActivatorService,
+    ConfirmationGuard,
+    EventsListResolverService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

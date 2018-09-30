@@ -1,4 +1,5 @@
 import { Injectable } from '@angular/core';
+import { Subject } from 'rxjs';
 declare var require: any;
 @Injectable({
   providedIn: 'root'
@@ -9,7 +10,10 @@ export class EventService {
   singleData: any = require('../../../assets/singleShow.json');
   constructor() { }
   getData(){ 
-    return this.data;
+    let subject = new Subject();
+    setTimeout(()=>{subject.next(this.data);subject.complete();},100);
+
+    return subject;
   }
   getSingleData(id){
     console.log(id.toString());
